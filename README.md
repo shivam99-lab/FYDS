@@ -1,2 +1,3 @@
 # FYDS
-MY FIRST HANDSON SESSION
+My first hands-on session
+Author Shivam Yadav
